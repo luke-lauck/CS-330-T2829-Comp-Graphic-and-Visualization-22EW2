@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Luke\Downloads\Milestone\Source.cpp(285,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Luke\Downloads\Milestone\Source.cpp(337,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Downloads\Milestone\Source.cpp(418,37): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\Luke\Downloads\Milestone\Source.cpp(880,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Downloads\Milestone\Source.cpp(881,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Downloads\Milestone\Source.cpp(885,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Downloads\Milestone\Source.cpp(886,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Downloads\Milestone\Source.cpp(888,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Downloads\Milestone\Source.cpp(889,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Downloads\Milestone\Source.cpp(897,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Milestone.vcxproj -> C:\Users\Luke\Downloads\Milestone\Debug\Milestone.exe
